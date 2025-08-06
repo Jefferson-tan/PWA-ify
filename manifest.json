@@ -1,0 +1,7 @@
+{
+    "name": "YotTube",
+    "short_name": "YouTube",
+    "display": "standalone",
+    "orientation": "portrait",
+    "theme_color": "#FFFFFF"
+}
